@@ -1,0 +1,5 @@
+value_tier,customer_count,revenue_sum,avg_spent
+VIP,15,654.3,43.62
+Core,15,584.3,38.95
+Occasional,15,564.3,37.62
+Low,14,525.7,37.55

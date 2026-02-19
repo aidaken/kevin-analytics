@@ -1,0 +1,15 @@
+segment,priority,customer_name,email,country,total_spent,order_count,days_since_last_order,comeback_count,max_gap_days
+VIP_sleepy,P0,Luis Rojas,luisrojas@yahoo.cl,Chile,46.62,7,434,3,584
+At_risk,P1,Jack Smith,jacksmith@microsoft.com,USA,39.62,7,509,3,540
+At_risk,P1,João Fernandes,jfernandes@yahoo.pt,Portugal,39.62,7,447,3,540
+At_risk,P1,Dominique Lefebvre,dominiquelefebvre@gmail.com,France,38.62,7,496,3,584
+At_risk,P1,Tim Goyer,tgoyer@apple.com,USA,38.62,7,465,3,584
+At_risk,P1,Joakim Johansson,joakim.johansson@yahoo.se,Sweden,38.62,7,385,3,540
+At_risk,P1,Jennifer Peterson,jenniferp@rogers.ca,Canada,38.62,7,372,3,584
+At_risk,P1,Niklas Schröder,nschroder@surfeu.de,Germany,37.62,7,540,3,540
+At_risk,P1,Leonie Köhler,leonekohler@surfeu.de,Germany,37.62,7,527,3,584
+At_risk,P1,Mark Taylor,mark.taylor@yahoo.au,Australia,37.62,7,478,3,540
+At_risk,P1,Fernanda Ramos,fernadaramos4@uol.com.br,Brazil,37.62,7,416,3,540
+At_risk,P1,Hannah Schneider,hannah.schneider@yahoo.de,Germany,37.62,7,403,3,584
+At_risk,P1,Edward Francis,edfrancis@yachoo.ca,Canada,37.62,7,354,3,540
+At_risk,P1,Puja Srivastava,puja_srivastava@yahoo.in,India,36.64,6,571,3,540
