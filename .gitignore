@@ -6,3 +6,5 @@ outputs/*.csv
 outputs/*.png
 data/*.db
 data/*.sqlite
+.DS_Store
+__MACOSX/

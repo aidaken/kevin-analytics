@@ -123,8 +123,13 @@ steps, which is where you'd focus fixes first.
 | File | What it does |
 |------|-------------|
 | `generate_funnel.py` | Builds synthetic funnel + exports chart |
+| `run_funnel.py` | Runs the full funnel pipeline |
+| `customer_funnel_northwind.sql` | Lifecycle funnel attempt on Northwind (see data note) |
+| `lifecycle_funnel.sql` | Lifecycle funnel attempt on Chinook (see data note) |
+| `EXEC_SUMMARY.md` | One-page executive summary of findings |
 | `outputs/funnel_steps.csv` | Step-level conversion table |
 | `outputs/funnel_chart.png` | Horizontal bar chart |
-
+| `outputs/lifecycle_funnel.csv` | Lifecycle funnel output (flat, see data note) |
+| `outputs/lifecycle_funnel.png` | Lifecycle funnel chart |
 ---
 Aidar
