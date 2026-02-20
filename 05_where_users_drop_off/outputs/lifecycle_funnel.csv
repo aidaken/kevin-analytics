@@ -1,0 +1,6 @@
+step,users,step_rate
+Customers,59,
+Bought at least once,59,1.0
+Repeat (2+ orders),59,1.0
+Loyal (3+ orders),59,1.0
+VIP (top quartile spend),15,0.2542

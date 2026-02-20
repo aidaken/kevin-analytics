@@ -1,0 +1,6 @@
+step,users,step_rate,overall_rate
+Visited landing page,10000,,1.0
+Started signup,6200,0.62,0.62
+Verified email,4100,0.6612903225806451,0.41
+Added payment method,2300,0.5609756097560976,0.23
+Completed first order,1400,0.6086956521739131,0.14
