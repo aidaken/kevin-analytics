@@ -2,8 +2,7 @@
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
-outputs/*.csv
-outputs/*.png
+
 data/*.db
 data/*.sqlite
 .DS_Store
