@@ -18,7 +18,7 @@ So I wanted to answer one thing:
 So most customers don’t repeat right away.
 
 2) **Retention is spiky, not “monthly smooth”.**  
-In this month-index setup (exact-month repeat), months 2 / 4 / 5 are 0% — that doesn’t mean “everyone churned”.
+In this month-index setup (exact-month repeat), months 2 / 4 / 5 are 0% , that doesn’t mean “everyone churned”.
 It means purchases aren’t happening on a clean monthly cycle. People come back in waves.
 
 3) **The biggest checkpoints here are month 1 and month 3**:
